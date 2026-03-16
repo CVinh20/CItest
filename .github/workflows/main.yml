@@ -26,5 +26,6 @@ jobs:
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
+          context: ./lehuynhcongvinh
           push: true
           tags: congvinh20/demodockerjava:V1
