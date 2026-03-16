@@ -28,4 +28,4 @@ jobs:
         with:
           context: ./lehuynhcongvinh
           push: true
-          tags: congvinh20/demodockerjava:V1
+          tags: congvinh20/demodockerjava:V1.1
